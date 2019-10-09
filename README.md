@@ -19,5 +19,13 @@ DEPENDENCIES:
     pip install neat
 
 CONTROLS:
+
   +/- to control FPS
-  Numpad +/- to control gravity 
+  Numpad +/- to control gravity
+ 
+ 
+INCLUDED FILES:
+  A .exe installer file for the .exe version of the program
+  The python file
+  A NEAT config file
+  A Spritesheet with all the assets
